@@ -1,0 +1,71 @@
+{
+    "title": "FLEX",
+    "description": "It's time to FLEX!",
+    "about": "flexing",
+    "questions": [
+        {
+            "text": "What are classes about for you?",
+            "kind": "SS",
+            "chart": "pie",
+            "options": [
+                {
+                    "text": "To satiate the burning yearning for learning within all of us"
+                },
+                {
+                    "text": "To FLEX on TEACHERS; Grades given based on how big your flexes are"
+                }
+            ]
+        },
+        {
+            "text": "Is wearing your college getup on May 1st a FLEX?",
+            "kind": "SS",
+            "chart": "bar",
+            "options": [
+                {
+                    "text": "BIG FLEX"
+                },
+                {
+                    "text": "Nah -- an announcement to the plebians around me"
+                },
+                {
+                    "text": "How else are people gonna know???"
+                }
+            ]
+        },
+        {
+            "text": "Is working out a FLEX?",
+            "kind": "SS",
+            "chart": "bar",
+            "options": [
+                {
+                    "text": "Only if you tell EVERYONE ALL THE TIME about it"
+                },
+                {
+                    "text": "Nah it's just for swole szn"
+                },
+                {
+                    "text": "I don't work out"
+                }
+            ]
+        },
+        {
+            "text": "Have you heard of StuCrew?",
+            "kind": "SS",
+            "chart": "bar",
+            "options": [
+                {
+                    "text": "Yes, but I don't like them"
+                },
+                {
+                    "text": "STUUUUUUUUUUUUUUUUUUUUUUUUUUUU"
+                },
+                {
+                    "text": "Should be called StuSquad"
+                },
+                {
+                    "text": "Who is she?"
+                }
+            ]
+        }
+    ]
+}
